@@ -21,7 +21,7 @@ public class UserManagementSpec extends BaseURLs {
         return new RequestSpecBuilder()
                 .setBaseUri(BASE_URL)
                 .setBasePath(BASE_PATH_ID)
-                .log(LogDetail.ALL)
+               // .log(LogDetail.ALL)
                 .build();
     }
 
