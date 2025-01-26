@@ -672,3 +672,19 @@
 22:08:09.786 [main] INFO  com.api.tests.UserTest - User message : Success
 22:08:10.162 [main] INFO  com.api.tests.UserTest - User lastname : Sipes
 22:08:10.163 [main] INFO  com.api.tests.UserTest - User email : ping.schowalter@hotmail.com
+22:54:07.643 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+22:54:09.056 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+22:54:09.065 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+22:54:09.070 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+22:54:09.718 [main] INFO  com.api.tests.UserTest - User Id : 1960
+22:54:09.719 [main] INFO  com.api.tests.UserTest - User firstname : Eric
+22:54:09.720 [main] INFO  com.api.tests.UserTest - User lastname : Nikolaus
+22:54:09.720 [main] INFO  com.api.tests.UserTest - User email : rivka.satterfield@yahoo.com
+22:54:09.720 [main] INFO  com.api.tests.UserTest - User message : Success
+22:54:09.721 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+22:54:09.725 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+22:54:10.591 [main] INFO  com.api.tests.UserTest - User lastname : Schimmel
+22:54:10.591 [main] INFO  com.api.tests.UserTest - User email : jaclyn.torphy@yahoo.com
+22:54:10.592 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+22:54:10.594 [main] INFO  com.api.utils.Listener - Test is started : deleteUserTest
+22:54:11.026 [main] INFO  com.api.utils.Listener - Test is Success : deleteUserTest
