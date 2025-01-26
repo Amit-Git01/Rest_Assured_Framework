@@ -13,7 +13,7 @@ public class AuthenticationSpec extends BaseURLs {
         return new RequestSpecBuilder()
                 .setBaseUri(BASE_URL)
                 .setBasePath(BASE_PATH)
-                .log(LogDetail.ALL)
+               // .log(LogDetail.ALL)
                 .build();
     }
 
