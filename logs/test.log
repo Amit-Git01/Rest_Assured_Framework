@@ -664,3 +664,11 @@
 21:35:04.168 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
 21:35:04.169 [main] INFO  com.api.utils.Listener - Test is started : deleteUserTest
 21:35:05.282 [main] INFO  com.api.utils.Listener - Test is Success : deleteUserTest
+22:08:09.166 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+22:08:09.784 [main] INFO  com.api.tests.UserTest - User Id : 1959
+22:08:09.785 [main] INFO  com.api.tests.UserTest - User firstname : Sonya
+22:08:09.785 [main] INFO  com.api.tests.UserTest - User lastname : Murphy
+22:08:09.785 [main] INFO  com.api.tests.UserTest - User email : annie.skiles@gmail.com
+22:08:09.786 [main] INFO  com.api.tests.UserTest - User message : Success
+22:08:10.162 [main] INFO  com.api.tests.UserTest - User lastname : Sipes
+22:08:10.163 [main] INFO  com.api.tests.UserTest - User email : ping.schowalter@hotmail.com
