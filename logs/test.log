@@ -1,0 +1,666 @@
+16:42:25.471 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+16:47:33.443 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+16:47:33.455 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+16:47:54.345 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+16:47:54.355 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+16:49:21.518 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+16:49:21.522 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+16:49:22.166 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+16:49:22.175 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+16:49:22.627 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+16:59:47.647 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:33:13.290 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:33:14.170 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:33:42.187 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:33:43.018 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:34:40.902 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:34:40.907 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:34:41.496 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:34:41.501 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:34:42.250 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:34:42.253 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:34:42.258 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:34:45.281 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:34:45.283 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:36:28.336 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:36:28.342 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:36:28.897 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:36:28.901 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:36:29.395 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:36:29.399 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:36:29.404 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:36:30.119 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:36:30.121 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:37:52.199 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:37:52.206 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:37:52.823 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:37:52.830 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:37:53.287 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:37:53.291 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:37:53.293 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:37:54.431 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:37:54.433 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:38:59.142 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:38:59.146 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:38:59.937 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:38:59.942 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:39:00.782 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:39:00.784 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:39:00.788 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:39:02.330 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:39:02.333 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:42:21.874 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:42:21.879 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:42:22.570 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:42:22.575 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:42:23.046 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:42:23.051 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:42:23.053 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:42:23.771 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:42:23.773 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:44:21.589 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:44:21.593 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:44:22.160 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:44:22.164 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:44:22.672 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:44:22.676 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:44:22.677 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:44:23.429 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:44:23.430 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:47:56.289 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:47:57.368 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:48:11.595 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:48:11.600 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:48:12.185 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:48:12.190 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:48:12.680 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:48:12.682 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:48:12.684 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:48:13.382 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:48:13.384 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:49:51.389 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:49:51.392 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:49:51.960 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:49:51.966 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:49:52.441 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:49:52.446 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:49:52.450 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:49:53.195 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:49:53.197 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:53:31.882 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:53:31.886 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:53:32.503 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:53:32.507 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:53:32.986 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:53:32.990 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:53:32.992 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:53:33.756 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:53:33.759 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:54:45.254 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:54:45.257 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:54:45.806 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:54:45.809 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:54:46.473 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:54:46.476 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:54:46.483 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:54:47.197 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:54:47.198 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:56:50.179 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:56:50.184 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:56:50.784 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:56:50.788 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:56:51.264 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:56:51.267 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:56:51.270 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:56:52.361 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:56:52.363 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+17:57:56.293 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:57:56.297 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+17:57:56.863 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:57:56.867 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:57:57.335 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:57:57.338 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:57:57.340 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+17:57:58.867 [main] INFO  com.api.tests.UserTest - User Id : 1913
+17:57:58.868 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+18:00:29.534 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:00:29.537 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+18:00:30.208 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+18:00:30.211 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:00:30.675 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:00:30.677 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:00:30.678 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+18:00:31.880 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:00:31.883 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+18:01:40.473 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:01:40.477 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+18:01:41.074 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+18:01:41.080 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:01:41.570 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:01:41.573 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:01:41.575 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+18:01:41.625 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+18:07:11.297 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:07:11.299 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+18:07:11.652 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+18:07:11.656 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:07:13.059 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:07:13.059 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:07:13.060 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+18:07:13.790 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:07:13.791 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+18:08:40.544 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:08:40.547 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+18:08:40.906 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+18:08:40.907 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:08:41.309 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:08:41.310 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:08:41.311 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+18:08:41.954 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:08:41.955 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+18:09:22.843 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:09:22.845 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+18:09:23.214 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+18:09:23.216 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:09:23.600 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:09:23.602 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:09:23.603 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+18:09:24.353 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:09:24.353 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+18:10:03.386 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:10:04.119 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:11:11.272 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:11:12.000 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:16:40.241 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:16:40.243 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+18:16:40.604 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+18:16:40.607 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:16:41.026 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:16:41.027 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:16:41.030 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+18:16:41.765 [main] INFO  com.api.tests.UserTest - User Id : 1913
+18:16:41.766 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+12:24:48.257 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+12:24:48.261 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+12:24:48.949 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+12:24:48.954 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+12:24:49.697 [main] INFO  com.api.tests.UserTest - User Id : 1913
+12:24:49.699 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+12:24:49.702 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+12:24:50.613 [main] INFO  com.api.tests.UserTest - User Id : 1913
+12:24:50.616 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+13:04:21.453 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:04:21.456 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:04:22.051 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+13:04:22.054 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:04:23.990 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:04:23.991 [main] INFO  com.api.tests.UserTest - User email : Reddy01@gmail.com
+13:04:23.993 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+13:05:10.075 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:05:10.080 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:05:10.679 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+13:05:10.683 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+13:05:11.186 [main] INFO  com.api.tests.UserTest - User Id : 1913
+13:05:11.186 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+13:05:11.187 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:05:11.187 [main] INFO  com.api.tests.UserTest - User email : Reddy01@gmail.com
+13:05:11.187 [main] INFO  com.api.tests.UserTest - User message : Success
+13:05:11.189 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+13:05:11.192 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:05:11.565 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:06:21.779 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:06:21.784 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:06:22.476 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+13:06:22.481 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+13:06:23.555 [main] INFO  com.api.tests.UserTest - User Id : 1913
+13:06:23.556 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+13:06:23.556 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:06:23.556 [main] INFO  com.api.tests.UserTest - User email : Reddy01@gmail.com
+13:06:23.556 [main] INFO  com.api.tests.UserTest - User message : Success
+13:06:23.558 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+13:06:23.561 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:06:23.941 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:07:57.815 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:07:57.820 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:07:58.399 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+13:07:58.403 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+13:07:59.033 [main] INFO  com.api.tests.UserTest - User Id : 1913
+13:07:59.034 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+13:07:59.034 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:07:59.034 [main] INFO  com.api.tests.UserTest - User email : Reddy01@gmail.com
+13:07:59.034 [main] INFO  com.api.tests.UserTest - User message : Success
+13:07:59.036 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+13:07:59.038 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:07:59.883 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:09:49.886 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:09:49.890 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:09:50.484 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+13:09:50.488 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:09:51.512 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:10:18.689 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:14:19.867 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:15:32.074 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:15:32.077 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:15:32.698 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+13:15:32.702 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+13:15:33.434 [main] INFO  com.api.tests.UserTest - User Id : 1913
+13:15:33.434 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+13:15:33.435 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:15:33.435 [main] INFO  com.api.tests.UserTest - User email : Reddy01@gmail.com
+13:15:33.435 [main] INFO  com.api.tests.UserTest - User message : Success
+13:15:33.436 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+13:15:33.438 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:15:34.089 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:16:46.492 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:16:46.498 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:16:47.152 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+13:16:47.155 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+13:16:48.019 [main] INFO  com.api.tests.UserTest - User Id : 1913
+13:16:48.020 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+13:16:48.021 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:16:48.021 [main] INFO  com.api.tests.UserTest - User email : Reddy01@gmail.com
+13:16:48.021 [main] INFO  com.api.tests.UserTest - User message : Success
+13:16:48.024 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+13:16:48.027 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:16:48.912 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:20:38.224 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:20:38.230 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:20:38.856 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+13:20:38.859 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+13:20:39.319 [main] INFO  com.api.tests.UserTest - User Id : 1913
+13:20:39.320 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+13:20:39.320 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:20:39.321 [main] INFO  com.api.tests.UserTest - User email : Reddy01@gmail.com
+13:20:39.321 [main] INFO  com.api.tests.UserTest - User message : Success
+13:20:39.324 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+13:20:39.328 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:20:39.736 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:23:08.250 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:23:08.256 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:23:08.903 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+13:23:08.906 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:23:09.415 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:23:09.415 [main] INFO  com.api.tests.UserTest - User email : Reddy1@gmail.com
+13:23:09.418 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+13:24:35.910 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:24:35.915 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:24:36.555 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+13:24:36.560 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:24:37.056 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:26:00.939 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:26:01.637 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:27:04.304 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:29:12.281 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+13:39:03.718 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:39:03.721 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:39:04.422 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+13:39:04.425 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:39:05.679 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:41:55.243 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:42:51.309 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:44:18.761 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:44:19.426 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:46:38.826 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:47:34.699 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:48:42.096 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:48:42.099 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:48:42.108 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+13:48:42.113 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+13:48:42.634 [main] INFO  com.api.tests.UserTest - User Id : 1918
+13:48:42.634 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+13:48:42.634 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:48:42.635 [main] INFO  com.api.tests.UserTest - User email : Reddy@gmail.com
+13:48:42.635 [main] INFO  com.api.tests.UserTest - User message : Success
+13:48:42.640 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+13:49:12.940 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:49:12.943 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:49:12.953 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+13:49:12.957 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+13:49:13.618 [main] INFO  com.api.tests.UserTest - User Id : 1918
+13:49:13.619 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+13:49:13.619 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:49:13.620 [main] INFO  com.api.tests.UserTest - User email : Reddy@gmail.com
+13:49:13.620 [main] INFO  com.api.tests.UserTest - User message : Success
+13:49:13.623 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+13:49:13.626 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:49:14.052 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+13:50:10.222 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+13:50:10.225 [main] INFO  com.api.tests.LoginTest - Status Code : 200
+13:50:10.233 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+13:50:10.239 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+13:50:10.711 [main] INFO  com.api.tests.UserTest - User Id : 1918
+13:50:10.712 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+13:50:10.712 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:50:10.712 [main] INFO  com.api.tests.UserTest - User email : Reddy@gmail.com
+13:50:10.712 [main] INFO  com.api.tests.UserTest - User message : Success
+13:50:10.716 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+13:50:10.720 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+13:50:11.120 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+13:50:11.120 [main] INFO  com.api.tests.UserTest - User email : Redd@gmail.com
+13:50:11.121 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+16:29:11.675 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+16:29:11.677 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+16:29:11.701 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+16:29:11.710 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+16:29:13.602 [main] INFO  com.api.tests.UserTest - User Id : 1918
+16:29:13.603 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+16:29:13.603 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+16:29:13.603 [main] INFO  com.api.tests.UserTest - User email : Redd@gmail.com
+16:29:13.604 [main] INFO  com.api.tests.UserTest - User message : Success
+16:29:13.605 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+16:34:12.843 [main] INFO  com.api.tests.LoginTest - Status Code : 400
+17:04:06.036 [main] INFO  com.api.tests.AuthTest - Status Code : 400
+17:06:01.399 [main] INFO  com.api.tests.AuthTest - Status Code : 400
+17:14:07.237 [main] INFO  com.api.tests.AuthTest - Status Code : 400
+17:23:24.313 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+17:25:35.955 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:25:37.130 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+17:25:37.139 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:25:37.143 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:25:37.792 [main] INFO  com.api.tests.UserTest - User Id : 1918
+17:25:37.793 [main] INFO  com.api.tests.UserTest - User firstname : Maddy
+17:25:37.793 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+17:25:37.793 [main] INFO  com.api.tests.UserTest - User email : Redd@gmail.com
+17:25:37.794 [main] INFO  com.api.tests.UserTest - User message : Success
+17:25:37.797 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+17:26:54.590 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:26:55.898 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+17:26:55.906 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:26:55.910 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:26:56.290 [main] INFO  com.api.utils.Listener - Test is failed : getUserTest
+17:29:03.674 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+17:29:05.071 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+17:29:05.082 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+17:29:05.088 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+17:29:05.652 [main] INFO  com.api.tests.UserTest - User Id : 1924
+17:29:05.652 [main] INFO  com.api.tests.UserTest - User firstname : Juliann
+17:29:05.652 [main] INFO  com.api.tests.UserTest - User lastname : Ziemann
+17:29:05.652 [main] INFO  com.api.tests.UserTest - User email : deon.wolff@gmail.com
+17:29:05.653 [main] INFO  com.api.tests.UserTest - User message : Success
+17:29:05.656 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:00:27.994 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:00:29.405 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+18:00:29.413 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+18:00:29.416 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:00:29.931 [main] INFO  com.api.tests.UserTest - User Id : 1925
+18:00:29.931 [main] INFO  com.api.tests.UserTest - User firstname : Reagan
+18:00:29.931 [main] INFO  com.api.tests.UserTest - User lastname : Wilkinson
+18:00:29.931 [main] INFO  com.api.tests.UserTest - User email : geoffrey.turcotte@gmail.com
+18:00:29.932 [main] INFO  com.api.tests.UserTest - User message : Success
+18:00:29.934 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:04:00.043 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:04:01.541 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+18:04:01.551 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+18:04:01.556 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:04:02.208 [main] INFO  com.api.tests.UserTest - User Id : 1926
+18:04:02.208 [main] INFO  com.api.tests.UserTest - User firstname : Ngoc
+18:04:02.208 [main] INFO  com.api.tests.UserTest - User lastname : Kuhn
+18:04:02.209 [main] INFO  com.api.tests.UserTest - User email : anita.leuschke@yahoo.com
+18:04:02.209 [main] INFO  com.api.tests.UserTest - User message : Success
+18:04:02.210 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:47:43.257 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:47:44.102 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+18:47:44.109 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+18:47:44.114 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:47:44.547 [main] INFO  com.api.tests.UserTest - User Id : 1927
+18:47:44.547 [main] INFO  com.api.tests.UserTest - User firstname : Sandy
+18:47:44.547 [main] INFO  com.api.tests.UserTest - User lastname : Effertz
+18:47:44.547 [main] INFO  com.api.tests.UserTest - User email : felipa.jenkins@gmail.com
+18:47:44.547 [main] INFO  com.api.tests.UserTest - User message : Success
+18:47:44.548 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+18:54:57.618 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+18:54:57.623 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+18:54:57.627 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+18:54:57.629 [main] INFO  com.api.utils.Listener - Test is failed : getUserTest
+19:12:19.240 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:12:19.611 [main] INFO  com.api.tests.UserTest - User Id : 1932
+19:12:19.611 [main] INFO  com.api.tests.UserTest - User firstname : Wendell
+19:12:19.611 [main] INFO  com.api.tests.UserTest - User lastname : Hyatt
+19:12:19.612 [main] INFO  com.api.tests.UserTest - User email : deangelo.lehner@yahoo.com
+19:12:19.612 [main] INFO  com.api.tests.UserTest - User message : Success
+19:13:10.213 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:13:10.219 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+19:13:10.224 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:13:10.226 [main] INFO  com.api.utils.Listener - Test is failed : getUserTest
+19:14:53.496 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:14:53.501 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+19:14:53.504 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:14:53.507 [main] INFO  com.api.utils.Listener - Test is failed : getUserTest
+19:21:19.121 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:21:19.512 [main] INFO  com.api.tests.UserTest - User Id : 1936
+19:21:19.512 [main] INFO  com.api.tests.UserTest - User firstname : Dominique
+19:21:19.512 [main] INFO  com.api.tests.UserTest - User lastname : Bashirian
+19:21:19.512 [main] INFO  com.api.tests.UserTest - User email : quentin.schowalter@gmail.com
+19:21:19.512 [main] INFO  com.api.tests.UserTest - User message : Success
+19:21:48.532 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:21:48.933 [main] INFO  com.api.tests.UserTest - User Id : 1937
+19:21:48.933 [main] INFO  com.api.tests.UserTest - User firstname : Madlyn
+19:21:48.933 [main] INFO  com.api.tests.UserTest - User lastname : Reinger
+19:21:48.934 [main] INFO  com.api.tests.UserTest - User email : tyree.terry@gmail.com
+19:21:48.934 [main] INFO  com.api.tests.UserTest - User message : Success
+19:27:19.680 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:27:20.170 [main] INFO  com.api.tests.UserTest - User Id : 1938
+19:27:20.170 [main] INFO  com.api.tests.UserTest - User firstname : Michael
+19:27:20.170 [main] INFO  com.api.tests.UserTest - User lastname : Kub
+19:27:20.170 [main] INFO  com.api.tests.UserTest - User email : tonita.mclaughlin@yahoo.com
+19:27:20.171 [main] INFO  com.api.tests.UserTest - User message : Success
+19:27:49.338 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:27:49.344 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+19:27:49.349 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:27:49.352 [main] INFO  com.api.utils.Listener - Test is failed : getUserTest
+19:27:49.354 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:28:15.243 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:28:16.091 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:28:16.096 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+19:28:16.100 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:28:16.493 [main] INFO  com.api.tests.UserTest - User Id : 1940
+19:28:16.493 [main] INFO  com.api.tests.UserTest - User firstname : Leo
+19:28:16.493 [main] INFO  com.api.tests.UserTest - User lastname : Runolfsson
+19:28:16.493 [main] INFO  com.api.tests.UserTest - User email : timmy.lebsack@hotmail.com
+19:28:16.493 [main] INFO  com.api.tests.UserTest - User message : Success
+19:28:16.495 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+19:28:16.497 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:28:16.894 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+19:28:48.453 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:28:49.260 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:28:49.264 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+19:28:49.267 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:28:49.699 [main] INFO  com.api.tests.UserTest - User Id : 1941
+19:28:49.699 [main] INFO  com.api.tests.UserTest - User firstname : Selma
+19:28:49.699 [main] INFO  com.api.tests.UserTest - User lastname : Waelchi
+19:28:49.699 [main] INFO  com.api.tests.UserTest - User email : camille.dare@gmail.com
+19:28:49.699 [main] INFO  com.api.tests.UserTest - User message : Success
+19:28:49.701 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+19:28:49.703 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:28:50.271 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+19:30:48.277 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:30:49.024 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:30:49.026 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+19:30:49.029 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:30:49.446 [main] INFO  com.api.tests.UserTest - User Id : 1942
+19:30:49.446 [main] INFO  com.api.tests.UserTest - User firstname : Cherry
+19:30:49.446 [main] INFO  com.api.tests.UserTest - User lastname : Upton
+19:30:49.446 [main] INFO  com.api.tests.UserTest - User email : luke.heathcote@hotmail.com
+19:30:49.446 [main] INFO  com.api.tests.UserTest - User message : Success
+19:30:49.447 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+19:30:49.449 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:30:49.812 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+19:31:16.092 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:31:16.884 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:31:16.888 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+19:31:16.890 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:31:17.295 [main] INFO  com.api.tests.UserTest - User Id : 1943
+19:31:17.295 [main] INFO  com.api.tests.UserTest - User firstname : Marx
+19:31:17.295 [main] INFO  com.api.tests.UserTest - User lastname : Mueller
+19:31:17.295 [main] INFO  com.api.tests.UserTest - User email : yolando.kris@gmail.com
+19:31:17.295 [main] INFO  com.api.tests.UserTest - User message : Success
+19:31:17.297 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+19:31:17.298 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:31:17.714 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+19:32:16.657 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:32:17.098 [main] INFO  com.api.tests.UserTest - User Id : 1944
+19:32:17.099 [main] INFO  com.api.tests.UserTest - User firstname : Lamonica
+19:32:17.099 [main] INFO  com.api.tests.UserTest - User lastname : Purdy
+19:32:17.099 [main] INFO  com.api.tests.UserTest - User email : emmanuel.mitchell@gmail.com
+19:32:17.099 [main] INFO  com.api.tests.UserTest - User message : Success
+19:32:17.465 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+19:32:17.465 [main] INFO  com.api.tests.UserTest - User email : Redd20@gmail.com
+19:33:37.437 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:33:37.867 [main] INFO  com.api.tests.UserTest - User Id : 1945
+19:33:37.868 [main] INFO  com.api.tests.UserTest - User firstname : Kittie
+19:33:37.868 [main] INFO  com.api.tests.UserTest - User lastname : Ernser
+19:33:37.868 [main] INFO  com.api.tests.UserTest - User email : berneice.koch@hotmail.com
+19:33:37.868 [main] INFO  com.api.tests.UserTest - User message : Success
+19:33:38.226 [main] INFO  com.api.tests.UserTest - User lastname : Reddy
+19:33:38.227 [main] INFO  com.api.tests.UserTest - User email : Redd200@gmail.com
+19:34:04.496 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:34:04.501 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+19:34:04.504 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:34:04.505 [main] INFO  com.api.utils.Listener - Test is failed : getUserTest
+19:34:04.507 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:43:54.115 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:43:54.977 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:43:54.984 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+19:43:54.989 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:43:56.446 [main] INFO  com.api.tests.UserTest - User Id : 1947
+19:43:56.446 [main] INFO  com.api.tests.UserTest - User firstname : Faustino
+19:43:56.446 [main] INFO  com.api.tests.UserTest - User lastname : Stark
+19:43:56.446 [main] INFO  com.api.tests.UserTest - User email : genaro.maggio@yahoo.com
+19:43:56.446 [main] INFO  com.api.tests.UserTest - User message : Success
+19:43:56.448 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+19:43:56.450 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:43:56.872 [main] INFO  com.api.tests.UserTest - User lastname : Bernier
+19:43:56.872 [main] INFO  com.api.tests.UserTest - User email : lionel.kuhic@hotmail.com
+19:43:56.874 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+19:49:15.344 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:49:15.353 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+19:49:15.357 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:49:15.360 [main] INFO  com.api.utils.Listener - Test is failed : getUserTest
+19:49:15.363 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:49:40.087 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:49:40.570 [main] INFO  com.api.tests.UserTest - User Id : 1949
+19:49:40.570 [main] INFO  com.api.tests.UserTest - User firstname : Marilu
+19:49:40.572 [main] INFO  com.api.tests.UserTest - User lastname : Abernathy
+19:49:40.572 [main] INFO  com.api.tests.UserTest - User email : carmina.harber@gmail.com
+19:49:40.572 [main] INFO  com.api.tests.UserTest - User message : Success
+19:49:41.023 [main] INFO  com.api.tests.UserTest - User lastname : Considine
+19:49:41.023 [main] INFO  com.api.tests.UserTest - User email : nova.murray@yahoo.com
+19:50:13.681 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:50:14.085 [main] INFO  com.api.tests.UserTest - User Id : 1950
+19:50:14.086 [main] INFO  com.api.tests.UserTest - User firstname : Maria
+19:50:14.086 [main] INFO  com.api.tests.UserTest - User lastname : Beahan
+19:50:14.086 [main] INFO  com.api.tests.UserTest - User email : darren.mante@gmail.com
+19:50:14.086 [main] INFO  com.api.tests.UserTest - User message : Success
+19:50:14.475 [main] INFO  com.api.tests.UserTest - User lastname : Witting
+19:50:14.475 [main] INFO  com.api.tests.UserTest - User email : wilfred.sipes@yahoo.com
+19:52:25.868 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:52:25.875 [main] INFO  com.api.utils.Listener - Test is failed : userlogin
+19:52:25.879 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:52:25.881 [main] INFO  com.api.utils.Listener - Test is failed : getUserTest
+19:52:25.883 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:57:04.568 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+19:57:05.408 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+19:57:05.411 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+19:57:05.414 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+19:57:05.805 [main] INFO  com.api.tests.UserTest - User Id : 1952
+19:57:05.805 [main] INFO  com.api.tests.UserTest - User firstname : Hoyt
+19:57:05.806 [main] INFO  com.api.tests.UserTest - User lastname : Bogisich
+19:57:05.806 [main] INFO  com.api.tests.UserTest - User email : mose.stehr@hotmail.com
+19:57:05.806 [main] INFO  com.api.tests.UserTest - User message : Success
+19:57:05.806 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+19:57:05.809 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+19:57:06.247 [main] INFO  com.api.tests.UserTest - User lastname : White
+19:57:06.247 [main] INFO  com.api.tests.UserTest - User email : casandra.steuber@hotmail.com
+19:57:06.247 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+20:00:59.279 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+20:01:00.666 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+20:01:00.671 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+20:01:00.673 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+20:01:01.238 [main] INFO  com.api.tests.UserTest - User Id : 1953
+20:01:01.238 [main] INFO  com.api.tests.UserTest - User firstname : Allyson
+20:01:01.238 [main] INFO  com.api.tests.UserTest - User lastname : O'Conner
+20:01:01.238 [main] INFO  com.api.tests.UserTest - User email : fred.predovic@gmail.com
+20:01:01.238 [main] INFO  com.api.tests.UserTest - User message : Success
+20:01:01.239 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+20:01:01.244 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+20:01:02.156 [main] INFO  com.api.utils.Listener - Test is failed : patchUserTest
+21:24:58.085 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+21:24:59.265 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+21:24:59.269 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+21:24:59.272 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+21:25:00.168 [main] INFO  com.api.tests.UserTest - User Id : 1954
+21:25:00.168 [main] INFO  com.api.tests.UserTest - User firstname : Lelah
+21:25:00.168 [main] INFO  com.api.tests.UserTest - User lastname : Moore
+21:25:00.168 [main] INFO  com.api.tests.UserTest - User email : norman.sporer@yahoo.com
+21:25:00.168 [main] INFO  com.api.tests.UserTest - User message : Success
+21:25:00.170 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+21:25:00.173 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+21:25:00.733 [main] INFO  com.api.tests.UserTest - User lastname : Howe
+21:25:00.734 [main] INFO  com.api.tests.UserTest - User email : trinidad.balistreri@gmail.com
+21:25:00.735 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+21:25:00.736 [main] INFO  com.api.utils.Listener - Test is started : deleteUserTest
+21:25:01.290 [main] INFO  com.api.utils.Listener - Test is failed : deleteUserTest
+21:26:37.697 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+21:26:40.092 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+21:26:40.104 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+21:26:40.112 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+21:26:41.162 [main] INFO  com.api.tests.UserTest - User Id : 1955
+21:26:41.164 [main] INFO  com.api.tests.UserTest - User firstname : Dorine
+21:26:41.164 [main] INFO  com.api.tests.UserTest - User lastname : Goodwin
+21:26:41.164 [main] INFO  com.api.tests.UserTest - User email : landon.green@yahoo.com
+21:26:41.165 [main] INFO  com.api.tests.UserTest - User message : Success
+21:26:41.166 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+21:26:41.176 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+21:26:41.890 [main] INFO  com.api.tests.UserTest - User lastname : Dickens
+21:26:41.891 [main] INFO  com.api.tests.UserTest - User email : paige.crooks@gmail.com
+21:26:41.891 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+21:26:41.893 [main] INFO  com.api.utils.Listener - Test is started : deleteUserTest
+21:26:44.217 [main] INFO  com.api.utils.Listener - Test is failed : deleteUserTest
+21:29:48.767 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+21:29:49.857 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+21:29:49.862 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+21:29:49.865 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+21:29:51.851 [main] INFO  com.api.tests.UserTest - User Id : 1956
+21:29:51.851 [main] INFO  com.api.tests.UserTest - User firstname : Alexis
+21:29:51.851 [main] INFO  com.api.tests.UserTest - User lastname : Klein
+21:29:51.851 [main] INFO  com.api.tests.UserTest - User email : jacob.klocko@yahoo.com
+21:29:51.852 [main] INFO  com.api.tests.UserTest - User message : Success
+21:29:51.852 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+21:29:51.858 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+21:29:52.909 [main] INFO  com.api.tests.UserTest - User lastname : Schoen
+21:29:52.909 [main] INFO  com.api.tests.UserTest - User email : warner.grimes@gmail.com
+21:29:52.910 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+21:29:52.912 [main] INFO  com.api.utils.Listener - Test is started : deleteUserTest
+21:29:53.770 [main] INFO  com.api.utils.Listener - Test is Success : deleteUserTest
+21:32:57.709 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+21:32:59.168 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+21:32:59.171 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+21:32:59.174 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+21:33:00.096 [main] INFO  com.api.tests.UserTest - User Id : 1957
+21:33:00.097 [main] INFO  com.api.tests.UserTest - User firstname : Teodoro
+21:33:00.097 [main] INFO  com.api.tests.UserTest - User lastname : Casper
+21:33:00.097 [main] INFO  com.api.tests.UserTest - User email : luis.schuppe@gmail.com
+21:33:00.097 [main] INFO  com.api.tests.UserTest - User message : Success
+21:33:00.097 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+21:33:00.101 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+21:33:01.157 [main] INFO  com.api.tests.UserTest - User lastname : Rippin
+21:33:01.158 [main] INFO  com.api.tests.UserTest - User email : santiago.heathcote@yahoo.com
+21:33:01.159 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+21:33:01.160 [main] INFO  com.api.utils.Listener - Test is started : deleteUserTest
+21:33:01.801 [main] INFO  com.api.utils.Listener - Test is Success : deleteUserTest
+21:35:01.823 [main] INFO  com.api.utils.Listener - Test is started : userlogin
+21:35:02.885 [main] INFO  com.api.tests.AuthTest - Status Code : 200
+21:35:02.890 [main] INFO  com.api.utils.Listener - Test is Success : userlogin
+21:35:02.892 [main] INFO  com.api.utils.Listener - Test is started : getUserTest
+21:35:03.506 [main] INFO  com.api.tests.UserTest - User Id : 1958
+21:35:03.507 [main] INFO  com.api.tests.UserTest - User firstname : Eleonora
+21:35:03.507 [main] INFO  com.api.tests.UserTest - User lastname : Hahn
+21:35:03.507 [main] INFO  com.api.tests.UserTest - User email : kathe.christiansen@yahoo.com
+21:35:03.507 [main] INFO  com.api.tests.UserTest - User message : Success
+21:35:03.508 [main] INFO  com.api.utils.Listener - Test is Success : getUserTest
+21:35:03.510 [main] INFO  com.api.utils.Listener - Test is started : patchUserTest
+21:35:04.167 [main] INFO  com.api.tests.UserTest - User lastname : Kunze
+21:35:04.167 [main] INFO  com.api.tests.UserTest - User email : nathanael.bradtke@yahoo.com
+21:35:04.168 [main] INFO  com.api.utils.Listener - Test is Success : patchUserTest
+21:35:04.169 [main] INFO  com.api.utils.Listener - Test is started : deleteUserTest
+21:35:05.282 [main] INFO  com.api.utils.Listener - Test is Success : deleteUserTest
