@@ -1,6 +1,7 @@
 name: API testing using Rest Assured
 
 on:
+  workflow_dispatch:
   push:
     branches: [ "main" ]
   pull_request:
